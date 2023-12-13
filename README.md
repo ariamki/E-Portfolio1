@@ -214,7 +214,7 @@ const config = {
     },
   },
   social: {
-    linkedin: '',
+    linkedin: 'https://www.linkedin.com/in/ariamkidane/',
     twitter: '',
     mastodon: '',
     facebook: '',
@@ -232,7 +232,7 @@ const config = {
     email: '',
   },
   resume: {
-    fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: 'https://docs.google.com/document/d/12x8f4xkq4Pa5tDj2NMT50M6jnu43Z8jm72aFA8dG1lo/edit?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: ['JavaScript', 'React.js'],
   experiences: [
@@ -261,16 +261,16 @@ const config = {
   ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'EAST CAROLINA UNIVERSITY',
+      degree: 'BS IN MANAGEMENT INFORMATION SYSTEMS',
+      from: '2020',
+      to: '2023',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'DAVID W BUTLER HIGH SCHOOL',
+      degree: 'HIGH SCHOOL DIPLOMA',
+      from: '2016',
+      to: '2020',
     },
   ],
   // To hide the `My Projects` section, keep it empty.
