@@ -205,7 +205,7 @@ All the magic happens in the file `gitprofile.config.js`. Open it and modify it 
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'ariamki', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 8, // How many projects to display.
     exclude: {
@@ -465,9 +465,9 @@ You can link your social media services you're using, including LinkedIn, Twitte
 const config = {
   // ...
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'ariam-kidane',
+    twitter: '',
+    mastodon: '',
     facebook: '',
     instagram: '',
     youtube: '',
@@ -509,11 +509,11 @@ const config = {
   // ...
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'RangeWater Real Estate',
+      position: 'Marketing Representative ',
+      from: 'August 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: '[https://example.com](https://liverangewater.com/)',
     },
     {
       company: 'Company Name',
