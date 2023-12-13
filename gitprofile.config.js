@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'ariamki', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,26 +11,26 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'ariam-kidane',
+    twitter: '',
+    mastodon: '',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: ',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: 'https://www.linkedin.com/in/ariamkidane/',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'ariamki@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://docs.google.com/document/d/12x8f4xkq4Pa5tDj2NMT50M6jnu43Z8jm72aFA8dG1lo/edit?usp=sharing'
   },
   skills: [
     'PHP',
@@ -74,16 +74,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+     institution: 'EAST CAROLINA UNIVERSITY',
+      degree: 'BS IN MANAGEMENT INFORMATION SYSTEMS',
+      from: '2020',
+      to: '2023',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'DAVID W BUTLER HIGH SCHOOL',
+      degree: 'HIGH SCHOOL DIPLOMA',
+      from: '2016',
+      to: '2020',
     },
   ],
 
@@ -97,17 +97,17 @@ const config = {
       link: 'https://example.com',
     },
     {
-      title: 'Project Name',
+      title: 'E-Portfolio',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        '',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: '(https://drive.google.com/drive/folders/1Tg8nCjJ2cJ_hn75F2uppSLzuiKVMx4gQ?usp=sharing)',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
